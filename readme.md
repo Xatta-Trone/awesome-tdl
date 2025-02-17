@@ -1,7 +1,7 @@
 # Awesome TDL(Tabular Deep Learning)
 
 
- [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/Xatta-Trone/awesome-tdl-tabular-deep-learning-.svg?label=contributions)](https://github.com/Xatta-Trone/awesome-tdl-tabular-deep-learning-/pulls)  ![GitHub stars](https://img.shields.io/github/stars/Xatta-Trone/awesome-tdl-tabular-deep-learning-.svg?style=social)
+ [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/Xatta-Trone/awesome-tdl.svg?label=contributions)](https://github.com/Xatta-Trone/awesome-tdl/pulls)  ![GitHub stars](https://img.shields.io/github/stars/Xatta-Trone/awesome-tdl.svg?style=social)
 
 
 
@@ -56,4 +56,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Xatta-Trone/awesome-tdl-tabular-deep-learning-)](https://star-history.com/#Xatta-Trone/awesome-tdl-tabular-deep-learning-&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Xatta-Trone/awesome-tdl)](https://star-history.com/#Xatta-Trone/awesome-tdl&Date)
