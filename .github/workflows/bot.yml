@@ -20,11 +20,12 @@ jobs:
       - run: git pull
       - run: cd parser
       - run: pwd
-        working-directory: parser
-      - run: pwd
       - run: npm install
-      - run: node parser/1-arxiv-parser.js
-      - run: node parser/2-update-readme.js
+        working-directory: parser
+      - run: node 1-arxiv-parser.js
+        working-directory: parser
+      - run: node 2-update-readme.js
+        working-directory: parser
       - run: |
             git config user.name  "xatta-trone"
             git config user.email "22274105+actions-user@users.noreply.github.com"
