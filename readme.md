@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-February 25, 2025 at 04:35:39 AM UTC
+February 25, 2025 at 04:53:01 AM UTC
 
 
 ## Table of Contents
@@ -77,8 +77,6 @@ February 25, 2025 at 04:35:39 AM UTC
 - [Deep Learning within Tabular Data: Foundations, Challenges, Advances and Future Directions](https://arxiv.org/abs/2501.03540)
 - [Training Gradient Boosted Decision Trees on Tabular Data Containing Label Noise for Classification Tasks](https://arxiv.org/abs/2409.08647)
 - [Segmenting Action-Value Functions Over Time-Scales in SARSA via TD(ΔΔ)](https://arxiv.org/abs/2411.14783)
-
-
 
 
 ## Library
