@@ -79,7 +79,6 @@ February 25, 2025 at 04:35:39 AM UTC
 - [Segmenting Action-Value Functions Over Time-Scales in SARSA via TD(ΔΔ)](https://arxiv.org/abs/2411.14783)
 
 
-### Theorem
 
 
 ## Library
