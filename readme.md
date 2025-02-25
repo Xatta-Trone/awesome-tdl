@@ -7,7 +7,7 @@
 
 A meticulously curated compilation of outstanding libraries, projects, tutorials, research papers, and other resources centered on Tabular Deep Learning (TDL). This repository acts as a well-organized and comprehensive resource hub, crafted to assist and inspire researchers and developers delving into the domain of TDL.
 
-Our repository is **automatically updated** with the latest **KAN-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything KAN-related.
+Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
 February 25, 2025 at 04:35:39 AM UTC
