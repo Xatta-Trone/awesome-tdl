@@ -53,11 +53,11 @@ import fs from "fs";
               submittedDate,
             };
           })
-          .filter(
-            (paper) =>
-              paper.submittedDate.includes(todayFormatted) ||
-              paper.submittedDate.includes(yesterdayFormatted)
-          ) // Match today's or yesterday's date
+          // .filter(
+          //   (paper) =>
+          //     paper.submittedDate.includes(todayFormatted) ||
+          //     paper.submittedDate.includes(yesterdayFormatted)
+          // ) // Match today's or yesterday's date
           .map(({ title, link }) => ({
             title,
             link,
