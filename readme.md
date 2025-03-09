@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-March 8, 2025 at 12:30:06 AM UTC
+March 9, 2025 at 12:16:53 AM UTC
 
 
 ## Table of Contents
@@ -77,6 +77,16 @@ March 8, 2025 at 12:30:06 AM UTC
 - [Deep Learning within Tabular Data: Foundations, Challenges, Advances and Future Directions](https://arxiv.org/abs/2501.03540)
 - [Training Gradient Boosted Decision Trees on Tabular Data Containing Label Noise for Classification Tasks](https://arxiv.org/abs/2409.08647)
 - [Segmenting Action-Value Functions Over Time-Scales in SARSA via TD(ΔΔ)](https://arxiv.org/abs/2411.14783)
+- [A Binary Classification Social Network Dataset for Graph Machine Learning](https://arxiv.org/abs/2503.02397)
+- [Revisiting Nearest Neighbor for Tabular Data: A Deep Tabular Baseline Two Decades Later](https://arxiv.org/abs/2407.03257)
+- [Prior-Fitted Networks Scale to Larger Datasets When Treated as Weak Learners](https://arxiv.org/abs/2503.01256)
+- [Synthesizing Tabular Data Using Selectivity Enhanced Generative Adversarial Networks](https://arxiv.org/abs/2502.21034)
+- [Multimodal Learning for Just-In-Time Software Defect Prediction in Autonomous Driving Systems](https://arxiv.org/abs/2502.20806)
+- [Understanding the Limits of Deep Tabular Methods with Temporal Shift](https://arxiv.org/abs/2502.20260)
+- [TabGLM: Tabular Graph Language Model for Learning Transferable Representations Through Multi-Modal Consistency Minimization](https://arxiv.org/abs/2502.18847)
+- [Deep-Bench: Deep Learning Benchmark Dataset for Code Generation](https://arxiv.org/abs/2502.18726)
+- [Beyond the convexity assumption: Realistic tabular data generation under quantifier-free real linear constraints](https://arxiv.org/abs/2502.18237)
+- [On-device edge learning for IoT data streams: a survey](https://arxiv.org/abs/2502.17788)
 
 
 ## Library
