@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-March 14, 2025 at 12:37:59 AM UTC
+March 15, 2025 at 12:37:44 AM UTC
 
 
 ## Table of Contents
@@ -90,6 +90,8 @@ March 14, 2025 at 12:37:59 AM UTC
 - [You Only Debias Once: Towards Flexible Accuracy-Fairness Trade-offs at Inference Time](https://arxiv.org/abs/2503.07066)
 - [Learning Decision Trees as Amortized Structure Inference](https://arxiv.org/abs/2503.06985)
 - [A Survey on Tabular Data Generation: Utility, Alignment, Fidelity, Privacy, and Beyond](https://arxiv.org/abs/2503.05954)
+- [Applying Tabular Deep Learning Models to Estimate Crash Injury Types of Young Motorcyclists](https://arxiv.org/abs/2503.10474)
+- [TabNSA: Native Sparse Attention for Efficient Tabular Data Learning](https://arxiv.org/abs/2503.09850)
 
 
 ## Library
