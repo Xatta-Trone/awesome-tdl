@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-May 23, 2025 at 12:42:21 AM UTC
+May 24, 2025 at 12:40:37 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ May 23, 2025 at 12:42:21 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (108)
+## Papers (111)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -135,6 +135,9 @@ May 23, 2025 at 12:42:21 AM UTC
 - [When majority rules, minority loses: bias amplification of gradient descent](https://arxiv.org/abs/2505.13122)
 - [Graph Conditional Flow Matching for Relational Data Generation](https://arxiv.org/abs/2505.15668)
 - [Flexible Heteroscedastic Count Regression with Deep Double Poisson Networks](https://arxiv.org/abs/2406.09262)
+- [WikiDBGraph: Large-Scale Database Graph of Wikidata for Collaborative Learning](https://arxiv.org/abs/2505.16635)
+- [Do we need rebalancing strategies? A theoretical and empirical study around SMOTE and its variants](https://arxiv.org/abs/2402.03819)
+- [Realistic Evaluation of TabPFN v2 in Open Environments](https://arxiv.org/abs/2505.16226)
 
 
 ## Library
