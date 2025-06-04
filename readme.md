@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-June 3, 2025 at 12:43:36 AM UTC
+June 4, 2025 at 12:43:33 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ June 3, 2025 at 12:43:36 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (117)
+## Papers (119)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -144,6 +144,8 @@ June 3, 2025 at 12:43:36 AM UTC
 - [Intrinsic User-Centric Interpretability through Global Mixture of Experts](https://arxiv.org/abs/2402.02933)
 - [TabReason: A Reinforcement Learning-Enhanced Reasoning LLM for Explainable Tabular Data Prediction](https://arxiv.org/abs/2505.21807)
 - [X2Graph for Cancer Subtyping Prediction on Biological Tabular Data](https://arxiv.org/abs/2505.23334)
+- [ShaTS: A Shapley-based Explainability Method for Time Series Artificial Intelligence Models applied to Anomaly Detection in Industrial Internet of Things](https://arxiv.org/abs/2506.01450)
+- [Reinforcement Learning for Hanabi](https://arxiv.org/abs/2506.00458)
 
 
 ## Library
