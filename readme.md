@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-June 12, 2025 at 12:42:52 AM UTC
+June 13, 2025 at 12:43:31 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ June 12, 2025 at 12:42:52 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (134)
+## Papers (137)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -161,6 +161,9 @@ June 12, 2025 at 12:42:52 AM UTC
 - [On Finetuning Tabular Foundation Models](https://arxiv.org/abs/2506.08982)
 - [Local MDI+: Local Feature Importances for Tree-Based Models](https://arxiv.org/abs/2506.08928)
 - [IMAGIC-500: IMputation benchmark on A Generative Imaginary Country (500k samples)](https://arxiv.org/abs/2506.08844)
+- [Anomaly Detection and Generation with Diffusion Models: A Survey](https://arxiv.org/abs/2506.09368)
+- [Uncertainty Prioritized Experience Replay](https://arxiv.org/abs/2506.09270)
+- [CFMI: Flow Matching for Missing Data Imputation](https://arxiv.org/abs/2506.09258)
 
 
 ## Library
