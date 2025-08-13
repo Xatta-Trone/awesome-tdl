@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-August 12, 2025 at 12:43:32 AM UTC
+August 13, 2025 at 12:44:31 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ August 12, 2025 at 12:43:32 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (170)
+## Papers (172)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -197,6 +197,8 @@ August 12, 2025 at 12:43:32 AM UTC
 - [Artificial Inductive Bias for Synthetic Tabular Data Generation in Data-Scarce Scenarios](https://arxiv.org/abs/2407.03080)
 - [v-PuNNs: van der Put Neural Networks for Transparent Ultrametric Representation Learning](https://arxiv.org/abs/2508.01010)
 - [Structural Equation-VAE: Disentangled Latent Representations for Tabular Data](https://arxiv.org/abs/2508.06347)
+- [FairFLRep: Fairness aware fault localization and repair of Deep Neural Networks](https://arxiv.org/abs/2508.08151)
+- [On the effectiveness of multimodal privileged knowledge distillation in two vision transformer based diagnostic applications](https://arxiv.org/abs/2508.06558)
 
 
 ## Library
