@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-August 21, 2025 at 12:40:18 AM UTC
+August 22, 2025 at 12:41:24 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ August 21, 2025 at 12:40:18 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (181)
+## Papers (184)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -208,6 +208,9 @@ August 21, 2025 at 12:40:18 AM UTC
 - [MIRRAMS: Learning Robust Tabular Models under Unseen Missingness Shifts](https://arxiv.org/abs/2507.08280)
 - [Disentangled Deep Smoothed Bootstrap for Fair Imbalanced Regression](https://arxiv.org/abs/2508.13829)
 - [Fusing Echocardiography Images and Medical Records for Continuous Patient Stratification](https://arxiv.org/abs/2401.07796)
+- [Statistical Arbitrage in Options Markets by Graph Learning and Synthetic Long Positions](https://arxiv.org/abs/2508.14762)
+- [Foe for Fraud: Transferable Adversarial Attacks in Credit Card Fraud Detection](https://arxiv.org/abs/2508.14699)
+- [Deep Learning for School Dropout Detection: A Comparison of Tabular and Graph-Based Models for Predicting At-Risk Students](https://arxiv.org/abs/2508.14057)
 
 
 ## Library
