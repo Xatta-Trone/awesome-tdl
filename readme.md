@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-August 26, 2025 at 12:41:32 AM UTC
+August 27, 2025 at 12:40:48 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ August 26, 2025 at 12:41:32 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (185)
+## Papers (188)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -212,6 +212,9 @@ August 26, 2025 at 12:41:32 AM UTC
 - [Foe for Fraud: Transferable Adversarial Attacks in Credit Card Fraud Detection](https://arxiv.org/abs/2508.14699)
 - [Deep Learning for School Dropout Detection: A Comparison of Tabular and Graph-Based Models for Predicting At-Risk Students](https://arxiv.org/abs/2508.14057)
 - [Imputation Not Required in Incremental Learning of Tabular Data with Missing Values](https://arxiv.org/abs/2504.14610)
+- [Imputation is Not Required: Incremental Feature Attention Learning of Tabular Data with Missing Values](https://arxiv.org/abs/2504.14610)
+- [TabResFlow: A Normalizing Spline Flow Model for Probabilistic Univariate Tabular Regression](https://arxiv.org/abs/2508.17056)
+- [Aligning Distributionally Robust Optimization with Practical Deep Learning Needs](https://arxiv.org/abs/2508.16734)
 
 
 ## Library
