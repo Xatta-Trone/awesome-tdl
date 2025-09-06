@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-September 5, 2025 at 12:39:27 AM UTC
+September 6, 2025 at 12:37:51 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ September 5, 2025 at 12:39:27 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (193)
+## Papers (196)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -220,6 +220,9 @@ September 5, 2025 at 12:39:27 AM UTC
 - [Missing Data Imputation using Neural Cellular Automata](https://arxiv.org/abs/2509.00651)
 - [Optimized Weight Initialization on the Stiefel Manifold for Deep ReLU Neural Networks](https://arxiv.org/abs/2509.00362)
 - [LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence](https://arxiv.org/abs/2509.03505)
+- [Unveiling the Role of Data Uncertainty in Tabular Deep Learning](https://arxiv.org/abs/2509.04430)
+- [Imputation-free Learning of Tabular Data with Missing Values using Incremental Feature Partitions in Transformer](https://arxiv.org/abs/2504.14610)
+- [Synthetic Survival Data Generation for Heart Failure Prognosis Using Deep Generative Models](https://arxiv.org/abs/2509.04245)
 
 
 ## Library
