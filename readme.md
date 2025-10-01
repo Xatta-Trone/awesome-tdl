@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-September 30, 2025 at 12:40:33 AM UTC
+October 1, 2025 at 12:45:21 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ September 30, 2025 at 12:40:33 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (214)
+## Papers (218)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -241,6 +241,10 @@ September 30, 2025 at 12:40:33 AM UTC
 - [Improving Deep Tabular Learning](https://arxiv.org/abs/2509.16354)
 - [TABFAIRGDT: A Fast Fair Tabular Data Generator using Autoregressive Decision Trees](https://arxiv.org/abs/2509.19927)
 - [Pretrained deep models outperform GBDTs in Learning-To-Rank under label scarcity](https://arxiv.org/abs/2308.00177)
+- [Interpretable Kernel Representation Learning at Scale: A Unified Framework Utilizing Nyström Approximation](https://arxiv.org/abs/2509.24467)
+- [TREAT-Net: Tabular-Referenced Echocardiography Analysis for Acute Coronary Syndrome Treatment Prediction](https://arxiv.org/abs/2509.23999)
+- [Network Traffic Classification Using Self-Supervised Learning and Confident Learning](https://arxiv.org/abs/2509.23522)
+- [More Data or Better Algorithms: Latent Diffusion Augmentation for Deep Imbalanced Regression](https://arxiv.org/abs/2509.23240)
 
 
 ## Library
