@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-October 31, 2025 at 12:41:32 AM UTC
+November 1, 2025 at 12:44:59 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ October 31, 2025 at 12:41:32 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (239)
+## Papers (241)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -266,6 +266,8 @@ October 31, 2025 at 12:41:32 AM UTC
 - [MMbeddings: Parameter-Efficient, Low-Overfitting Probabilistic Embeddings Inspired by Nonlinear Mixed Models](https://arxiv.org/abs/2510.22198)
 - [A Comprehensive Evaluation Framework for Synthetic Trip Data Generation in Public Transport](https://arxiv.org/abs/2510.24375)
 - [DiNo and RanBu: Lightweight Predictions from Shallow Random Forests](https://arxiv.org/abs/2510.23624)
+- [Towards Scaling Laws for Symbolic Regression](https://arxiv.org/abs/2510.26064)
+- [TabSTAR: A Tabular Foundation Model for Tabular Data with Text Fields](https://arxiv.org/abs/2505.18125)
 
 
 ## Library
