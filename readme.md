@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-November 18, 2025 at 12:42:42 AM UTC
+November 19, 2025 at 12:43:10 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ November 18, 2025 at 12:42:42 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (252)
+## Papers (254)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -279,6 +279,8 @@ November 18, 2025 at 12:42:42 AM UTC
 - [Hierarchical Deep Counterfactual Regret Minimization](https://arxiv.org/abs/2305.17327)
 - [DenoGrad: Deep Gradient Denoising Framework for Enhancing the Performance of Interpretable AI Models](https://arxiv.org/abs/2511.10161)
 - [Generalization Can Emerge in Tabular Foundation Models From a Single Table](https://arxiv.org/abs/2511.09665)
+- [Statistically Accurate and Robust Generative Prediction of Rock Discontinuities with A Tabular Foundation Model](https://arxiv.org/abs/2511.13339)
+- [A Deep Learning Model to Predicting Changes in Consumer Attributes for New Line-extended Products](https://arxiv.org/abs/2511.11646)
 
 
 ## Library
