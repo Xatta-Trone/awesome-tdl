@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-November 19, 2025 at 12:43:10 AM UTC
+November 20, 2025 at 12:41:58 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ November 19, 2025 at 12:43:10 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (254)
+## Papers (258)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -281,6 +281,10 @@ November 19, 2025 at 12:43:10 AM UTC
 - [Generalization Can Emerge in Tabular Foundation Models From a Single Table](https://arxiv.org/abs/2511.09665)
 - [Statistically Accurate and Robust Generative Prediction of Rock Discontinuities with A Tabular Foundation Model](https://arxiv.org/abs/2511.13339)
 - [A Deep Learning Model to Predicting Changes in Consumer Attributes for New Line-extended Products](https://arxiv.org/abs/2511.11646)
+- [MRI Embeddings Complement Clinical Predictors for Cognitive Decline Modeling in Alzheimer's Disease Cohorts](https://arxiv.org/abs/2511.14601)
+- [MissHDD: Hybrid Deterministic Diffusion for Hetrogeneous Incomplete Data Imputation](https://arxiv.org/abs/2511.14543)
+- [Contextual Learning for Anomaly Detection in Tabular Data](https://arxiv.org/abs/2509.09030)
+- [Benchmarking Differentially Private Tabular Data Synthesis](https://arxiv.org/abs/2504.14061)
 
 
 ## Library
