@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-January 1, 2026 at 12:53:30 AM UTC
+January 2, 2026 at 12:47:07 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ January 1, 2026 at 12:53:30 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (275)
+## Papers (276)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -302,6 +302,7 @@ January 1, 2026 at 12:53:30 AM UTC
 - [Deep Learning for Art Market Valuation](https://arxiv.org/abs/2512.23078)
 - [Adaptive Trust Consensus for Blockchain IoT: Comparing RL, DRL, and MARL Against Naive, Collusive, Adaptive, Byzantine, and Sleeper Attacks](https://arxiv.org/abs/2512.22860)
 - [Latent Sculpting for Zero-Shot Generalization: A Manifold Learning Approach to Out-of-Distribution Anomaly Detection](https://arxiv.org/abs/2512.22179)
+- [TabMixNN: A Unified Deep Learning Framework for Structural Mixed Effects Modeling on Tabular Data](https://arxiv.org/abs/2512.23787)
 
 
 ## Library
