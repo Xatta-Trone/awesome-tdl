@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-January 6, 2026 at 12:47:10 AM UTC
+January 7, 2026 at 12:46:47 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ January 6, 2026 at 12:47:10 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (277)
+## Papers (278)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -304,6 +304,7 @@ January 6, 2026 at 12:47:10 AM UTC
 - [Latent Sculpting for Zero-Shot Generalization: A Manifold Learning Approach to Out-of-Distribution Anomaly Detection](https://arxiv.org/abs/2512.22179)
 - [TabMixNN: A Unified Deep Learning Framework for Structural Mixed Effects Modeling on Tabular Data](https://arxiv.org/abs/2512.23787)
 - [A Sparse-Attention Deep Learning Model Integrating Heterogeneous Multimodal Features for Parkinson's Disease Severity Profiling](https://arxiv.org/abs/2601.00519)
+- [Reading Between the Lines: Deconfounding Causal Estimates using Text Embeddings and Deep Learning](https://arxiv.org/abs/2601.01511)
 
 
 ## Library
