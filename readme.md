@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-February 4, 2026 at 12:55:11 AM UTC
+February 5, 2026 at 12:58:22 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ February 4, 2026 at 12:55:11 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (292)
+## Papers (294)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -319,6 +319,8 @@ February 4, 2026 at 12:55:11 AM UTC
 - [FIRE: Multi-fidelity Regression with Distribution-conditioned In-context Learning using Tabular Foundation Models](https://arxiv.org/abs/2601.22371)
 - [Tabular Foundation Models Can Do Survival Analysis](https://arxiv.org/abs/2601.22259)
 - [Linear-PAL: A Lightweight Ranker for Mitigating Shortcut Learning in Personalized, High-Bias Tabular Ranking](https://arxiv.org/abs/2602.00013)
+- [CTTVAE: Latent Space Structuring for Conditional Tabular Data Generation on Imbalanced Datasets](https://arxiv.org/abs/2602.03641)
+- [VerIde ECG Biometrics: Verification and Identification](https://arxiv.org/abs/2602.02776)
 
 
 ## Library
