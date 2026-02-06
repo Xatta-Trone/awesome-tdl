@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-February 5, 2026 at 12:58:22 AM UTC
+February 6, 2026 at 12:55:51 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ February 5, 2026 at 12:58:22 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (294)
+## Papers (297)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -321,6 +321,9 @@ February 5, 2026 at 12:58:22 AM UTC
 - [Linear-PAL: A Lightweight Ranker for Mitigating Shortcut Learning in Personalized, High-Bias Tabular Ranking](https://arxiv.org/abs/2602.00013)
 - [CTTVAE: Latent Space Structuring for Conditional Tabular Data Generation on Imbalanced Datasets](https://arxiv.org/abs/2602.03641)
 - [VerIde ECG Biometrics: Verification and Identification](https://arxiv.org/abs/2602.02776)
+- [Verification and Identification in ECG biometric on large-scale](https://arxiv.org/abs/2602.02776)
+- [StraTyper: Automated Semantic Type Discovery and Multi-Type Annotation for Dataset Collections](https://arxiv.org/abs/2602.04004)
+- [The Role of Target Update Frequencies in Q-Learning](https://arxiv.org/abs/2602.03911)
 
 
 ## Library
