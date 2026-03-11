@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-March 10, 2026 at 12:54:45 AM UTC
+March 11, 2026 at 12:55:28 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ March 10, 2026 at 12:54:45 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (317)
+## Papers (323)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -344,6 +344,12 @@ March 10, 2026 at 12:54:45 AM UTC
 - [RocketStack: Level-aware Deep Recursive Ensemble Learning Architecture](https://arxiv.org/abs/2506.16965)
 - [An interpretable prototype parts-based neural network for medical tabular data](https://arxiv.org/abs/2603.05423)
 - [Missingness Bias Calibration in Feature Attribution Explanations](https://arxiv.org/abs/2603.04831)
+- [The Role of Feature Interactions in Graph-based Tabular Deep Learning](https://arxiv.org/abs/2510.04543)
+- [Distributional Regression with Tabular Foundation Models: Evaluating Probabilistic Predictions via Proper Scoring Rules](https://arxiv.org/abs/2603.08206)
+- [Reinforcing Numerical Reasoning in LLMs for Tabular Prediction via Structural Priors](https://arxiv.org/abs/2510.17385)
+- [Synthetic data for ratemaking: imputation-based methods vs adversarial networks and autoencoders](https://arxiv.org/abs/2509.02171)
+- [Interpretable Maximum Margin Deep Anomaly Detection](https://arxiv.org/abs/2603.07073)
+- [ERP-RiskBench: Leakage-Safe Ensemble Learning for Financial Risk](https://arxiv.org/abs/2603.06671)
 
 
 ## Library
