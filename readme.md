@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-March 17, 2026 at 12:59:42 AM UTC
+March 19, 2026 at 01:02:40 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ March 17, 2026 at 12:59:42 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (327)
+## Papers (332)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -354,6 +354,11 @@ March 17, 2026 at 12:59:42 AM UTC
 - [ReTabSyn: Realistic Tabular Data Synthesis via Reinforcement Learning](https://arxiv.org/abs/2603.10823)
 - [CARTGen-IR: Synthetic Tabular Data Generation for Imbalanced Regression](https://arxiv.org/abs/2506.02811)
 - [L2GTX: From Local to Global Time Series Explanations](https://arxiv.org/abs/2603.13065)
+- [Tabular LLMs for Interpretable Few-Shot Alzheimer's Disease Prediction with Multimodal Biomedical Data](https://arxiv.org/abs/2603.17191)
+- [Stochastic Resetting Accelerates Policy Convergence in Reinforcement Learning](https://arxiv.org/abs/2603.16842)
+- [Deep Tabular Representation Corrector](https://arxiv.org/abs/2603.16569)
+- [A Survey on Deep Learning Approaches for Tabular Data Generation: Utility, Alignment, Fidelity, Privacy, Diversity, and Beyond](https://arxiv.org/abs/2503.05954)
+- [TACTIC for Navigating the Unknown: Tabular Anomaly deteCTion via In-Context inference](https://arxiv.org/abs/2603.14171)
 
 
 ## Library
