@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-April 7, 2026 at 01:08:35 AM UTC
+April 8, 2026 at 01:10:05 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ April 7, 2026 at 01:08:35 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (345)
+## Papers (347)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -372,6 +372,8 @@ April 7, 2026 at 01:08:35 AM UTC
 - [Learning to Play Blackjack: A Curriculum Learning Perspective](https://arxiv.org/abs/2604.00076)
 - [Retrieval-aligned Tabular Foundation Models Enable Robust Clinical Risk Prediction in Electronic Health Records Under Real-world Constraints](https://arxiv.org/abs/2604.01841)
 - [ArrowFlow: Hierarchical Machine Learning in the Space of Permutations](https://arxiv.org/abs/2604.04087)
+- [From Uniform to Learned Knots: A Study of Spline-Based Numerical Encodings for Tabular Deep Learning](https://arxiv.org/abs/2604.05635)
+- [EAGLE: Edge-Aware Graph Learning for Proactive Delivery Delay Prediction in Smart Logistics Networks](https://arxiv.org/abs/2604.05254)
 
 
 ## Library
