@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-May 4, 2026 at 01:25:18 AM UTC
+May 5, 2026 at 01:25:30 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ May 4, 2026 at 01:25:18 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (366)
+## Papers (368)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -393,6 +393,8 @@ May 4, 2026 at 01:25:18 AM UTC
 - [A multi-stage soft computing framework for complex disease modelling and decision support: A liver cirrhosis case study](https://arxiv.org/abs/2604.24796)
 - [Use of What-if Scenarios to Help Explain Artificial Intelligence Models for Neonatal Health](https://arxiv.org/abs/2410.09635)
 - [ZAYAN: Disentangled Contrastive Transformer for Tabular Remote Sensing Data](https://arxiv.org/abs/2604.27606)
+- [Adversarial Imitation Learning with General Function Approximation: Theoretical Analysis and Practical Algorithms](https://arxiv.org/abs/2605.01778)
+- [High entropy leads to symmetry equivariant policies in Dec-POMDPs](https://arxiv.org/abs/2511.22581)
 
 
 ## Library
