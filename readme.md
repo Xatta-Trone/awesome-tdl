@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-May 11, 2026 at 01:48:46 AM UTC
+May 13, 2026 at 01:48:58 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ May 11, 2026 at 01:48:46 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (375)
+## Papers (383)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -402,6 +402,14 @@ May 11, 2026 at 01:48:46 AM UTC
 - [A Measure-Theoretic Finite-Sample Theory for Adaptive-Data Fitted Q-Iteration](https://arxiv.org/abs/2605.05791)
 - [Bloom Filter Encoding for Machine Learning](https://arxiv.org/abs/2512.19991)
 - [Self Driving Datasets: From 20 Million Papers to Nuanced Biomedical Knowledge at Scale](https://arxiv.org/abs/2605.07022)
+- [ASD-Bench: A Four-Axis Comprehensive Benchmark of AI Models for Autism Spectrum Disorder](https://arxiv.org/abs/2605.11091)
+- [Deep Arguing](https://arxiv.org/abs/2605.10569)
+- [Simultaneous Long-tailed Recognition and Multi-modal Fusion for Highly Imbalanced Multi-modal Data](https://arxiv.org/abs/2605.10498)
+- [Scalable Quantum Machine Learning via Multi-layer Fully-Connected Variational Quantum Circuits](https://arxiv.org/abs/2602.16623)
+- [D2ACE: Multi-Label Batch Selection Guided by Dual Dynamics and Adaptive Correlation Enhancement](https://arxiv.org/abs/2605.09400)
+- [A Single Deep Preference-Conditioned Policy for Learning Pareto Coverage Sets](https://arxiv.org/abs/2605.08946)
+- [PromptDx: Differentiable Prompt Tuning for Multimodal In-Context Alzheimer's Diagnosis](https://arxiv.org/abs/2605.08585)
+- [The Geometric Structure of Models Learning Sparse Data](https://arxiv.org/abs/2605.08464)
 
 
 ## Library
