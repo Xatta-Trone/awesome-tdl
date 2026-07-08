@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-July 7, 2026 at 01:44:49 AM UTC
+July 8, 2026 at 01:17:55 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ July 7, 2026 at 01:44:49 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (437)
+## Papers (442)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -464,6 +464,11 @@ July 7, 2026 at 01:44:49 AM UTC
 - [KnowsTFM: Knowledge-Informed Fine-Tuning of Small Tabular Foundation Models](https://arxiv.org/abs/2606.30258)
 - [Explainability in mulimodal deep transformation models for stroke outcome prediction](https://arxiv.org/abs/2504.06299)
 - [Mean Field Reinforcement Learning](https://arxiv.org/abs/2607.01525)
+- [Deep and diverse population synthesis for multi-person households using generative models with conditional inputs](https://arxiv.org/abs/2508.09964)
+- [Heckman-Corrected Epistemic Uncertainty: Selection on Unobservables Defeats Importance Weighting](https://arxiv.org/abs/2607.05806)
+- [TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning](https://arxiv.org/abs/2607.05380)
+- [EEG-SpikeAgent: Agentic Closed-Loop Program Synthesis for Automated EEG Spike Detection](https://arxiv.org/abs/2607.04558)
+- [A Fair Benchmarking of Deep Relational Database Learning Models](https://arxiv.org/abs/2607.03659)
 
 
 ## Library
