@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-July 13, 2026 at 01:19:49 AM UTC
+July 14, 2026 at 01:09:25 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ July 13, 2026 at 01:19:49 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (444)
+## Papers (447)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -471,6 +471,9 @@ July 13, 2026 at 01:19:49 AM UTC
 - [A Fair Benchmarking of Deep Relational Database Learning Models](https://arxiv.org/abs/2607.03659)
 - [Spectral Analysis of Dueling Q-Learning](https://arxiv.org/abs/2607.08340)
 - [The Importance of Encoder Choice:A Tabular-Image Study](https://arxiv.org/abs/2607.07756)
+- [TabLoRA: Parameter-Efficient Low-Rank Ensemble Learning for Large-Scale Tabular Data](https://arxiv.org/abs/2607.10077)
+- [Six-Class BPT Galaxy Classification for Survey-Scale AGN Candidate Prioritization: Deep Tabular Model and Informative Missingness Signals](https://arxiv.org/abs/2607.09865)
+- [Manifold Constrained Tabular Deep Neural Networks](https://arxiv.org/abs/2607.09710)
 
 
 ## Library
