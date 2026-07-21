@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-July 20, 2026 at 01:19:45 AM UTC
+July 21, 2026 at 01:16:33 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ July 20, 2026 at 01:19:45 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (450)
+## Papers (452)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -477,6 +477,8 @@ July 20, 2026 at 01:19:45 AM UTC
 - [Transformer-Guided Swarm Intelligence for Frugal Neural Architecture Search](https://arxiv.org/abs/2607.11826)
 - [Inter-Stop Energy Prediction and Causal Driver Quantification for Dual-Source Trolleybuses via a Time-Aware Tabular Deep Learning Architecture](https://arxiv.org/abs/2607.11349)
 - [Robustness of Deep Learning Models for PV Power Forecasting under NWP Forecast Errors: A Spatiotemporal and Physically Interpretable Analysis](https://arxiv.org/abs/2607.12954)
+- [Multimodal Attention-based Deep Learning for Emergency Triage with Electronic Health Records](https://arxiv.org/abs/2607.16662)
+- [Backpropagation-Free Trunk Training via the Split Forward Gradients](https://arxiv.org/abs/2607.16612)
 
 
 ## Library
