@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-July 30, 2026 at 01:09:52 AM UTC
+July 31, 2026 at 01:22:31 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ July 30, 2026 at 01:09:52 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (459)
+## Papers (462)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -486,6 +486,9 @@ July 30, 2026 at 01:09:52 AM UTC
 - [Automatic Knowledge Graph Construction and Query for Earthquake Catalogs](https://arxiv.org/abs/2607.24984)
 - [Equilibrium Training of Energy-Based Models with Parallel Trajectory Tempering](https://arxiv.org/abs/2607.27077)
 - [TreeCCA: Canonical Correlation Analysis via Gradient-Boosted Trees](https://arxiv.org/abs/2607.27027)
+- [Revisiting Predictive Process Monitoring in the Age of Foundation Models: A Comparative Study of Sequence, Tabular, and LLM Approaches](https://arxiv.org/abs/2607.27797)
+- [Modeling Decisions in Blockchain Analytics: A Leakage-Aware Evaluation of Tree-Based vs. Sequential Models](https://arxiv.org/abs/2607.27350)
+- [RadHarmony: Radiological Data Handling in the Era of Agentic AI](https://arxiv.org/abs/2607.27235)
 
 
 ## Library
