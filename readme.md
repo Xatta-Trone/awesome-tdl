@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-August 19, 2026 at 12:26:58 AM UTC
+August 20, 2026 at 12:27:11 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ August 19, 2026 at 12:26:58 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (482)
+## Papers (484)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -509,6 +509,8 @@ August 19, 2026 at 12:26:58 AM UTC
 - [Revisiting Overestimation Bias Problem of Q-learning: Settling Large Discrete Action Space via Action Intersection](https://arxiv.org/abs/2608.12912)
 - [Revisiting Energy-based Tabular Anomaly Detection: Energy and Reconstruction are Complementary](https://arxiv.org/abs/2608.14186)
 - [MoE-Enhanced Explainable Deep Manifold Transformation for Complex Data Embedding and Visualization](https://arxiv.org/abs/2410.19504)
+- [TabNSM: Neural Sparse Mixer for Tabular Regression](https://arxiv.org/abs/2608.18026)
+- [Diff-DDoS: Realistic Cyber-Physical Attack Synthesis and Robust Detection for 5G-Enabled CPS Using Tabular Diffusion Models](https://arxiv.org/abs/2608.17796)
 
 
 ## Library
