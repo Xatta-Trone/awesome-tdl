@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-August 26, 2026 at 12:29:23 AM UTC
+August 27, 2026 at 05:15:02 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ August 26, 2026 at 12:29:23 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (486)
+## Papers (487)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -513,6 +513,7 @@ August 26, 2026 at 12:29:23 AM UTC
 - [Diff-DDoS: Realistic Cyber-Physical Attack Synthesis and Robust Detection for 5G-Enabled CPS Using Tabular Diffusion Models](https://arxiv.org/abs/2608.17796)
 - [Table2Image: Lightweight Tabular Learning with Generated Proxy Representations and Reliability Diagnostics](https://arxiv.org/abs/2412.06265)
 - [Predicting Multiple Clinical Outcomes Related to Functional Recovery and Social Isolation Among Older Adults After Lower-Limb Fracture or Hip Replacement](https://arxiv.org/abs/2608.23531)
+- [From Gradient-Boosted Trees to Deep Recommenders: Practical Lessons from Migrating a Production Customer Support Recommender](https://arxiv.org/abs/2608.24132)
 
 
 ## Library
