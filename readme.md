@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-September 2, 2026 at 01:35:01 AM UTC
+September 3, 2026 at 01:38:36 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ September 2, 2026 at 01:35:01 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (495)
+## Papers (497)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -522,6 +522,8 @@ September 2, 2026 at 01:35:01 AM UTC
 - [Coarse composition suffices: tabular in-context learning for multi-activity antimicrobial peptide profiling](https://arxiv.org/abs/2608.30337)
 - [Creation begins with understanding: LLMs as strategy designers for privacy-preserving tabular data synthesis](https://arxiv.org/abs/2608.29674)
 - [TSPFN: A Temporal Tabular Foundation Model for Physiological Time Series Classification](https://arxiv.org/abs/2608.31013)
+- [Relational Task Generation Language: A Declarative Specification Framework for Relational Deep Learning](https://arxiv.org/abs/2609.01292)
+- [Solving In-Table Prediction Problems by Deep Neural Networks with Performance Evaluation Using Synthetic Data](https://arxiv.org/abs/2609.01262)
 
 
 ## Library
