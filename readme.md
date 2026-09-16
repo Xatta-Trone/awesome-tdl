@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-September 14, 2026 at 01:52:50 AM UTC
+September 16, 2026 at 01:52:36 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ September 14, 2026 at 01:52:50 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (502)
+## Papers (505)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -529,6 +529,9 @@ September 14, 2026 at 01:52:50 AM UTC
 - [Literati: Towards Anytime Optimal Shape Generalized Trees via AO*](https://arxiv.org/abs/2609.09299)
 - [Mini-Batch Risk-Averse Deep Q-Learning: A Robot Navigation Case Study](https://arxiv.org/abs/2609.07998)
 - [A Multimodal Explainable Deep Learning Framework for Alzheimer's Disease Diagnosis using 3D Magnetic Resonance Imaging and Clinical Data](https://arxiv.org/abs/2609.12410)
+- [FairLint-DL: An IDE-Native Tool for Fairness Debugging of Deep Learning Software](https://arxiv.org/abs/2609.16321)
+- [Anatomical Grounding and Leakage-Aware Multimodal Contrastive Learning for Alzheimer's Disease Classification from Structural MRI](https://arxiv.org/abs/2609.15888)
+- [A Machine Learning API for Earth Observation Data Cubes Based on openEO](https://arxiv.org/abs/2609.13453)
 
 
 ## Library
