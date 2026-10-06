@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-October 5, 2026 at 02:33:10 AM UTC
+October 6, 2026 at 03:27:29 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ October 5, 2026 at 02:33:10 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (520)
+## Papers (526)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -547,6 +547,12 @@ October 5, 2026 at 02:33:10 AM UTC
 - [RelICL: Training-free Relational Learning with Tabular Foundation Models](https://arxiv.org/abs/2610.01725)
 - [Interpretable Synthetic Medical Tabular Data Generation for Clinical Decision Support Using Fuzzy Cognitive Maps](https://arxiv.org/abs/2610.00391)
 - [Below what training size do deep tabular generators stop beating trivial baselines? A preregistered benchmark on a size ladder of clinical and standard datasets](https://arxiv.org/abs/2610.03500)
+- [Adapting prior-data fitted networks for tabular anomaly detection](https://arxiv.org/abs/2610.06693)
+- [On the Comparison of Optimizers for Imbalanced Learning](https://arxiv.org/abs/2610.06421)
+- [Deep Fair Learning: Task-Aware Fair Representations via Joint Distance-Covariance Regularization](https://arxiv.org/abs/2504.06470)
+- [DASH: Fast, Valid Counterfactuals for Deep Networks via Batched Directional Search](https://arxiv.org/abs/2610.04783)
+- [Do RUL explanations hold up? Faithfulness and stability of attributions on C-MAPSS](https://arxiv.org/abs/2610.04278)
+- [Dual-Scale Relational Graph Transformers for Ecosystem-Aware Fraud Detection](https://arxiv.org/abs/2610.04138)
 
 
 ## Library
